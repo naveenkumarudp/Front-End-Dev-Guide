@@ -1,0 +1,37 @@
+.container {
+  width: 380px;
+}
+
+h2 {
+  letter-spacing: 3px;
+}
+
+.hedder-info {
+  color: #4b4545;
+  font-weight: bold;
+  color: grey;
+  letter-spacing: 1px;
+}
+
+.info-container {
+  margin: 20px 0;
+}
+
+.info-textbox {
+  border: none;
+  border-bottom: 1px solid grey;
+  margin: 10px 25px 10px 10px;
+  margin-left: 0;
+  outline: none;
+  padding: 8px 0;
+}
+
+button {
+  background-color: #0593f8;
+  border: none;
+  padding: 10px 30px;
+  color: white;
+  border-radius: 25px;
+  font-weight: bold;
+  box-shadow: 0 5px 20px 0         rgba(0, 0, 0, 0.15);
+}
